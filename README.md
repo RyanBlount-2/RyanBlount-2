@@ -3,23 +3,19 @@ RyanBlount-2/RyanBlount-2 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# Ryan's GitHub Portfolio
+# Ryan's GitHub Profile
 
 > ### Hi! I'm Ryan. I'm an aspiring software developer with a passion for health, technology, & community.
 
-<br>
-
-Grandfather Mountain![](Images/Grandfather Mountain.png "Grandfather Mountain)
-
-<br>
+![Grandfather Mountain](Images/Grandfather_Mountain.png "Grandfather Mountain")
 
 ## Description:
 
-> This is my portfolio featuring my GitHub projects.
+> This is my GitHub profile featuring my public projects.
 
 ## **About Me:**
 
-> I'm a proud born and raised Floridian, but I currently live in the beautiful mountains of Western North Carolina. Some technologies I've learned include: HTML, CSS, JavaScript, VBA, & Python. I am learning more and more every day, and I love to put my abilities to the test with new challenges.
+> I'm a proud born and raised Floridian, but I currently live in the beautiful mountains of Western North Carolina. I've learned a few awesome technologies including: HTML, CSS, JavaScript, VBA, & Python. I learn more and more every day, and I love to put my abilities to the test with new challenges.
 
 ## **How To Reach Me:**
 
