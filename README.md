@@ -19,9 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 ## **How To Reach Me:**
 
-> [Email](blountr2@gmail.com)  
-> [LinkedIn Profile](linkedin.com/in/ryan-blount-6a9758230)  
-   
+> [LinkedIn Profile](https://linkedin.com/in/ryan-blount-6a9758230)  
+
 ## **License:**
 
 >    MIT License
