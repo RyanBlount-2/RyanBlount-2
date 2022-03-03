@@ -10,11 +10,11 @@
 
 ## **About Me:**
 
-> I'm a born and raised Floridian, but I currently live in the beautiful mountains of Western North Carolina. I currently work in the medical device industry, but in my free time I am striving to become a software developer. I've learned a few awesome technologies including: HTML, CSS, JavaScript, Python, & VBA. I am dedicated to learning more every day, and I love to put my abilities to the test with new challenges.
+> I'm a born and raised Floridian, but I currently live in the beautiful mountains of Western North Carolina. I currently work in the medical device industry, and in my free time I am striving to become a software developer. I've learned some awesome technologies including: GitHub, Terminal, Visual Studio Code, & Atom, as well as a few programming languages: HTML, CSS, JavaScript, Python, & VBA. I am dedicated to learning more every day, and I love to put my abilities to the test with new challenges.
 
 ## **How To Reach Me:**
 
-> [Email](blountr2@gmail.com)
+> [Email](blountr2@gmail.com)  
 > [LinkedIn Profile](https://linkedin.com/in/ryan-blount-6a9758230)  
 
 ## **License:**
