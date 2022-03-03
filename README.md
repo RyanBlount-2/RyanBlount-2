@@ -10,7 +10,7 @@
 
 ## **About Me:**
 
-> I'm a proud born and raised Floridian, but I currently live in the beautiful mountains of Western North Carolina. I've learned a few awesome technologies including: HTML, CSS, JavaScript, VBA, & Python. I learn more and more every day, and I love to put my abilities to the test with new challenges.
+> I'm a born and raised Floridian, but I currently live in the beautiful mountains of Western North Carolina. I've learned a few awesome technologies including: HTML, CSS, JavaScript, Python, & VBA. I am dedicated to learning more every day, and I love to put my abilities to the test with new challenges.
 
 ## **How To Reach Me:**
 
