@@ -14,7 +14,7 @@
 
 ## **How To Reach Me:**
   
-> [LinkedIn Profile](https://linkedin.com/in/ryan-blount-6a9758230)  
+> [LinkedIn Profile](https://linkedin.com/in/RyanBlount2)  
 
 ## **License:**
 
