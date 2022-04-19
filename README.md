@@ -2,7 +2,8 @@
 
 > ### Hi! I'm Ryan. I'm an aspiring software developer with a passion for health, technology, & community.
 
-![Grandfather Mountain](Images/Grandfather_Mountain.png "Grandfather Mountain")
+![Grandfather Mountain](Images/Grandfather-Mountain.png "Grandfather Mountain")
+<!-- <img src="Images/Grandfather-Mountain.png" alt="Grandfather Mountain" width="1000" height="750"> -->
 
 ## Description:
 
