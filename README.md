@@ -7,10 +7,10 @@
 ## Description:
 > This is my GitHub profile. Click the link below to go to my GitHub Portfolio.
 
-> [Project Page](https://github.com/RyanBlount-2/RyanBlount-2.github.io)
+> [Portfolio Page](https://github.com/RyanBlount-2/RyanBlount-2.github.io)
 
-<!-- > ![Projects Image](Images/Projects-Image.png "Projects Image") -->
-> <a href="https://github.com/RyanBlount-2/RyanBlount-2.github.io"><img src="Images/Projects-Image.png" alt="Projects Image" width="1000" height="750"></a>
+<!-- > ![Portfolio Image](Images/Portfolio-Image.png "Portfolio Image") -->
+> <a href="https://github.com/RyanBlount-2/RyanBlount-2.github.io"><img src="Images/Portfolio-Image.png" alt="Portfolio Image" width="500" height="300"></a>
 
 ## About Me:
 > I'm a born and raised Floridian, but I currently live in the beautiful mountains of Western North Carolina. I currently work in the medical device industry, and in my free time I am striving to become a software developer. I've learned some awesome technologies including: GitHub, Terminal, Visual Studio Code, & Atom, as well as a few cool programming languages: HTML, CSS, JavaScript, Python, & VBA. I am dedicated to learning more every day, and I love to put my abilities to the test with new projects & challenges.
